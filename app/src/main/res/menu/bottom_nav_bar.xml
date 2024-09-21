@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_bar"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Ana Sayfa"/>
+    <item
+        android:id="@+id/music_player_bar"
+        android:icon="@drawable/baseline_music_note_24"
+        android:title="Oynat"/>
+    <item
+        android:id="@+id/favorities_bar"
+        android:icon="@drawable/like_off"
+        android:title="Favoriler"/>
+</menu>
